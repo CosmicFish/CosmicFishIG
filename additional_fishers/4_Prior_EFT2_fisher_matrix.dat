@@ -1,0 +1,15 @@
+#
+# This file contains a Fisher matrix created with the CosmicFish code.
+#
+# The parameters of this Fisher matrix are:
+#
+#    1    EFTOmega0    \Omega_0^{\rm EFT}       0.1000000000000000E+00
+#    2    EFTGamma10    \gamma_0^{(1) {\rm EFT}}       0.0000000000000000E+00
+#    3    EFTGamma20    \gamma_0^{(2) {\rm EFT}}       0.0000000000000000E+00
+#    4    EFTGamma30    \gamma_0^{(3) {\rm EFT}}       0.0000000000000000E+00
+#
+
+     0.1     0.0     0.0     0.0     
+     0.0     0.1     0.0     0.0     
+     0.0     0.0     0.1     0.0     
+     0.0     0.0     0.0     0.1

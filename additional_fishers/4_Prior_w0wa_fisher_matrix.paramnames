@@ -1,0 +1,5 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+w0_ppf    w_{0}^{\rm ppf}      -0.1000000000000000E+01
+wa_ppf    w_{a}^{\rm ppf}       0.0000000000000000E+00

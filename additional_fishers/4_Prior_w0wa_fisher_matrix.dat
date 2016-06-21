@@ -1,0 +1,11 @@
+#
+# This file contains a Fisher matrix created with the CosmicFish code.
+#
+# The parameters of this Fisher matrix are:
+#
+#    1    w0_ppf    w_{0}^{\rm ppf}      -0.1000000000000000E+01
+#    2    wa_ppf    w_{a}^{\rm ppf}       0.0000000000000000E+00
+#
+
+     0.04     0.00 
+     0.00     0.04

@@ -1,0 +1,5 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+Horava_lambda    {\rm Horava}_{\lambda}       0.1000000000000000E-04
+Horava_eta    {\rm Horava}_{\eta}       0.1000000000000000E-04

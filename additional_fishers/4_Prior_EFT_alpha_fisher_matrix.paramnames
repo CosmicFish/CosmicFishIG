@@ -1,0 +1,7 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+RPHmassP0    \tilde{M_0}       0.1000000000000000E+00
+RPHkineticity0    \alpha_0^{\rm K}       0.1000000000000000E+00
+RPHbraiding0    \alpha_0^{\rm B}      -0.1000000000000000E-02
+RPHtensor0    \alpha_0^{\rm T}      -0.1000000000000000E-02

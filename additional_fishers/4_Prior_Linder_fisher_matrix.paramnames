@@ -1,0 +1,4 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+Linder_gamma    \gamma_{\rm L}       0.5450000000000000E+00

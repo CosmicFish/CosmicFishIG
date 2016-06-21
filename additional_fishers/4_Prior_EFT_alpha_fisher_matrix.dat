@@ -1,0 +1,15 @@
+#
+# This file contains a Fisher matrix created with the CosmicFish code.
+#
+# The parameters of this Fisher matrix are:
+#
+#    1    RPHmassP0    \tilde{M_0}       0.1000000000000000E+00
+#    2    RPHkineticity0    \alpha_0^{\rm K}       0.1000000000000000E+00
+#    3    RPHbraiding0    \alpha_0^{\rm B}      -0.1000000000000000E-02
+#    4    RPHtensor0    \alpha_0^{\rm T}      -0.1000000000000000E-02
+#
+
+     0.1     0.0     0.0     0.0     
+     0.0     0.1     0.0     0.0     
+     0.0     0.0     0.1     0.0     
+     0.0     0.0     0.0     0.1

@@ -1,0 +1,11 @@
+#
+# This file contains a Fisher matrix created with the CosmicFish code.
+#
+# H0 Fisher matrix based on http://arxiv.org/abs/1604.01424
+#
+# The parameters of this Fisher matrix are:
+#
+#    1    h    h       0.7000000000000000E+00
+#
+
+     3460.20

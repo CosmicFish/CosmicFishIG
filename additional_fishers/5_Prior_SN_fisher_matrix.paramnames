@@ -1,0 +1,6 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+alpha_SN    \alpha_{\rm SN}       0.1410000000000000E+00
+beta_SN    \beta_{\rm SN}       0.3101000000000000E+01
+M0_SN    M_0^{\rm SN}       0.1905000000000000E+02

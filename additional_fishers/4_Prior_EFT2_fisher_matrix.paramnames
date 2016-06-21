@@ -1,0 +1,7 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+EFTOmega0    \Omega_0^{\rm EFT}       0.1000000000000000E+00
+EFTGamma10    \gamma_0^{(1) {\rm EFT}}       0.0000000000000000E+00
+EFTGamma20    \gamma_0^{(2) {\rm EFT}}       0.0000000000000000E+00
+EFTGamma30    \gamma_0^{(3) {\rm EFT}}       0.0000000000000000E+00

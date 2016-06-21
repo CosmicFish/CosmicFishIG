@@ -1,0 +1,11 @@
+#
+# This file contains a Fisher matrix created with the CosmicFish code.
+#
+# The parameters of this Fisher matrix are:
+#
+#    1    Horava_lambda    {\rm Horava}_{\lambda}       0.1000000000000000E-04
+#    2    Horava_eta    {\rm Horava}_{\eta}       0.1000000000000000E-04
+#
+
+     10.0     0.00     
+     0.00     10.0         

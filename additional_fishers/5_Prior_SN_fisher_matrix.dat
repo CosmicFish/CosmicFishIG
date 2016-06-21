@@ -1,0 +1,13 @@
+#
+# This file contains a Fisher matrix created with the CosmicFish code.
+#
+# The parameters of this Fisher matrix are:
+#
+#    1    alpha_SN    \alpha_{\rm SN}       0.1410000000000000E+00
+#    2    beta_SN    \beta_{\rm SN}       0.3101000000000000E+01
+#    3    M0_SN    M_0^{\rm SN}       0.1905000000000000E+02
+#
+
+     0.25     0.0000     0.0000   
+     0.00     0.0625     0.0000     
+     0.00     0.0000     0.0001

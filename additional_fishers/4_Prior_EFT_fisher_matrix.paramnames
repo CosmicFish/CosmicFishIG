@@ -1,0 +1,4 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+EFTOmega0    \Omega_0^{\rm EFT}       0.0000000000000000E+00

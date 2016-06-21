@@ -1,0 +1,9 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+omegabh2    \Omega_b h^2       0.2260000000000000E-01
+omegach2    \Omega_c h^2       0.1120000000000000E+00
+h    h       0.7000000000000000E+00
+logA    {\rm{ln}}(10^{10} A_s)       0.3044522437723423E+01
+ns    n_s       0.9600000000000000E+00
+tau    \tau       0.9000000000000000E-01
