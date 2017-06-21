@@ -1,0 +1,7 @@
+#
+# This file contains the parameter names for a Fisher matrix.
+#
+E11    E_{11}       1.0000000000000E+00
+E22    E_{22}       1.0000000000000E+00
+E12    E_{12}       0.0000000000000E+00
+E21    E_{21}       0.0000000000000E+00

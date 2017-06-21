@@ -1,0 +1,10 @@
+#
+# This file contains a Fisher matrix created with the CosmicFish code.
+#
+# The parameters of this Fisher matrix are:
+#
+#    1    E11    E_{11}       1.0000000000000E+00
+#    2    E22    E_{22}       1.0000000000000E+00
+
+     1.0
+     1.0
